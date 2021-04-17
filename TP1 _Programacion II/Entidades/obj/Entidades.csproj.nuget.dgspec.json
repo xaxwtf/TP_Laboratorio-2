@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\TestTP\\TP _Programacion II\\Entidades\\Entidades.csproj": {}
+    "H:\\2A Laboratorio Y Programacion 2021\\TP_Laboratorio-2\\TP1 _Programacion II\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "H:\\TestTP\\TP _Programacion II\\Entidades\\Entidades.csproj": {
+    "H:\\2A Laboratorio Y Programacion 2021\\TP_Laboratorio-2\\TP1 _Programacion II\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\TestTP\\TP _Programacion II\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "H:\\2A Laboratorio Y Programacion 2021\\TP_Laboratorio-2\\TP1 _Programacion II\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "H:\\TestTP\\TP _Programacion II\\Entidades\\Entidades.csproj",
+        "projectPath": "H:\\2A Laboratorio Y Programacion 2021\\TP_Laboratorio-2\\TP1 _Programacion II\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Sergio Ariel\\.nuget\\packages\\",
-        "outputPath": "H:\\TestTP\\TP _Programacion II\\Entidades\\obj\\",
+        "outputPath": "H:\\2A Laboratorio Y Programacion 2021\\TP_Laboratorio-2\\TP1 _Programacion II\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
