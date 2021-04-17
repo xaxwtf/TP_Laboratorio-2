@@ -1,0 +1,36 @@
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.exe
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.deps.json
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.runtimeconfig.json
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.dll
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.pdb
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.FormCalculadora.resources
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.AssemblyInfo.cs
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.CopyComplete
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.dll
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.pdb
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.genruntimeconfig.cache
+C:\Users\Sergio Ariel\source\repos\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csprojAssemblyReference.cache
+H:\TestTP\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.exe
+H:\TestTP\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.deps.json
+H:\TestTP\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.runtimeconfig.json
+H:\TestTP\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.runtimeconfig.dev.json
+H:\TestTP\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.dll
+H:\TestTP\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.pdb
+H:\TestTP\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\Entidades.dll
+H:\TestTP\TP _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\Entidades.pdb
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csprojAssemblyReference.cache
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.FormCalculadora.resources
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.GenerateResource.cache
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.AssemblyInfoInputs.cache
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.AssemblyInfo.cs
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.CoreCompileInputs.cache
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.CopyComplete
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.dll
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.pdb
+H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.genruntimeconfig.cache
