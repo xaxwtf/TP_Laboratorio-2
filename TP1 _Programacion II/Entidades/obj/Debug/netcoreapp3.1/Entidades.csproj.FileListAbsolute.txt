@@ -7,3 +7,12 @@ C:\Users\Sergio Ariel\source\repos\TP _Programacion II\Entidades\obj\Debug\netco
 C:\Users\Sergio Ariel\source\repos\TP _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Sergio Ariel\source\repos\TP _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
 C:\Users\Sergio Ariel\source\repos\TP _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

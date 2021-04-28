@@ -5,7 +5,7 @@ namespace Entidades
 {
     public class Numero
     {
-        double num;
+        private double num;
      
         public Numero()
         {
@@ -15,7 +15,7 @@ namespace Entidades
         {
             this.num = num;
         }
-        public Numero(string num) : this(int.Parse(num))
+        public Numero(string num) : this(double.Parse(num))
         { }
         private double ValidarNumero(string numero)
         {
@@ -33,10 +33,6 @@ namespace Entidades
         }
         public string SetNumero
         {
-            get
-            {
-                return Convert.ToString(this.num);
-            }
             set
             {
                 this.num = ValidarNumero(value);
@@ -59,7 +55,7 @@ namespace Entidades
         public static string BinarioDecimal(string valor)
         {
             int r = 0;
-            Double num;
+            int num;
             string resultado="Valor Invalido";
             int len = valor.Length;
             int j = len - 1;
@@ -67,10 +63,10 @@ namespace Entidades
             {
                 foreach (char aux in valor)
                 {
-                    num = Math.Pow(2, j);
+                    num = Convert.ToInt32(Math.Pow(2, j));
                     if (aux == '1')
                     {
-                        r = r + Convert.ToInt32(num);
+                        r = r + num;
                     }
                     j--;
                 }
@@ -80,48 +76,23 @@ namespace Entidades
         }
         public static string DecimalBinario(double valor)
         {
-            string aux = "";
-            string uno = "1";
-            string cero = "0";
-            int n = 1;
-            double copiaValor = valor;
-            int i = 0;
-            if (valor > 0)
+            long binario = 0;
+            int numero = Convert.ToInt32(valor);
+            long digito = 0;
+            if (valor >= 0)
             {
-                while (true)
+                for (int i = numero % 2, j = 0; numero > 0; numero /= 2, i = numero % 2, j++)
                 {
-                    n = n * 2;
-                    i++;
-                    if (n > copiaValor)
-                    {
-                        n = n / 2;
-                        break;
-                    }
+                    digito = i % 2;
+                    binario += digito * (long)Math.Pow(10, j);
                 }
-                for (; i > 0; i--)
-                {
-                    if (n <= copiaValor)
-                    {
-                        aux = aux + uno;
-                        copiaValor = copiaValor - n;
-                        n = n / 2;
-                    }
-                    else
-                    {
-                        n = n / 2;
-                        aux = aux + cero;
-                    }
-                }
-            }
-            else if (valor == 0)
-            {
-                aux = aux + cero;
             }
             else
             {
-                aux = "valor invalido";
+                return "Valor Invalido";
             }
-            return aux;
+            
+            return Convert.ToString(binario);
         }
         public static string DecimalBinario(string valor)
         {

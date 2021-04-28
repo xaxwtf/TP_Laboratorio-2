@@ -34,3 +34,21 @@ H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculador
 H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.dll
 H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.pdb
 H:\TestTP\TP _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.genruntimeconfig.cache
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.exe
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.deps.json
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.runtimeconfig.json
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.runtimeconfig.dev.json
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.dll
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\MiCalculadora.pdb
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\Entidades.dll
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\bin\Debug\netcoreapp3.1\Entidades.pdb
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csprojAssemblyReference.cache
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.FormCalculadora.resources
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.GenerateResource.cache
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.AssemblyInfoInputs.cache
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.AssemblyInfo.cs
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.CoreCompileInputs.cache
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.CopyComplete
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.dll
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.pdb
+H:\2A Laboratorio Y Programacion 2021\TP_Laboratorio-2\TP1 _Programacion II\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.genruntimeconfig.cache

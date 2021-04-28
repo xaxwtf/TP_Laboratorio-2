@@ -16,7 +16,7 @@ namespace MiCalculadora
         public FormCalculadora()
         {
             InitializeComponent();
-            Text = "Calculadora de S. Ariel Limachi Ramos 2°A";
+            Text = "Calculadora de S. Ariel Limachi Ramos del Curso 2°A";
         }
         private void btnCerrar_Click(object sender, EventArgs e)
         {

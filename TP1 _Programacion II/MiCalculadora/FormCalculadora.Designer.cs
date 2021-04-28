@@ -123,7 +123,7 @@ namespace MiCalculadora
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(316, 35);
+            this.lblResultado.Location = new System.Drawing.Point(280, 32);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(13, 15);
             this.lblResultado.TabIndex = 11;
