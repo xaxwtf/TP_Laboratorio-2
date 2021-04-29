@@ -81,6 +81,10 @@ namespace Entidades
             long digito = 0;
             if (valor >= 0)
             {
+                if (valor - numero < 0)
+                {
+                    numero = numero - 1;
+                }
                 for (int i = numero % 2, j = 0; numero > 0; numero /= 2, i = numero % 2, j++)
                 {
                     digito = i % 2;
