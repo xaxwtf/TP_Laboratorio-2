@@ -1,0 +1,25 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+H:\3A\Laboratorio y Programacion TP 2\TP-02\Entidades\bin\Debug\Entidades.dll
+H:\3A\Laboratorio y Programacion TP 2\TP-02\Entidades\bin\Debug\Entidades.pdb
+H:\3A\Laboratorio y Programacion TP 2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+H:\3A\Laboratorio y Programacion TP 2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+H:\3A\Laboratorio y Programacion TP 2\TP-02\Entidades\obj\Debug\Entidades.dll
+H:\3A\Laboratorio y Programacion TP 2\TP-02\Entidades\obj\Debug\Entidades.pdb
+H:\3A\Laboratorio y Programacion TP 2\TP-02 Limachi Ramos Sergio Ariel\Entidades\bin\Debug\Entidades.dll
+H:\3A\Laboratorio y Programacion TP 2\TP-02 Limachi Ramos Sergio Ariel\Entidades\bin\Debug\Entidades.pdb
+H:\3A\Laboratorio y Programacion TP 2\TP-02 Limachi Ramos Sergio Ariel\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+H:\3A\Laboratorio y Programacion TP 2\TP-02 Limachi Ramos Sergio Ariel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+H:\3A\Laboratorio y Programacion TP 2\TP-02 Limachi Ramos Sergio Ariel\Entidades\obj\Debug\Entidades.dll
+H:\3A\Laboratorio y Programacion TP 2\TP-02 Limachi Ramos Sergio Ariel\Entidades\obj\Debug\Entidades.pdb
